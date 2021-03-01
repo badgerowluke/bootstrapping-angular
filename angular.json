@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-bootstraping"
+    }
+  },
+  "defaultProject": "ng-bootstraping",
+  "cli": {
+    "analytics": "9105c55d-971b-40c9-8fd4-6e9eb219d33c"
+  }
 }

@@ -1,0 +1,13 @@
+/*
+* FOR YOUR IMPLEMENTATION, THIS FILE SHOULD BE .gitignored
+* create as part of your Continuous DEPLOYMENT 
+*/
+{
+    "insights": {
+        "instrumentationKey": "e2a58dcd-12c9-4870-88b7-b68ace2967f5" //provided by: https://www.guidgenerator.com/online-guid-generator.aspx
+    },
+    "backend": {
+        "apiUrl": "http://localhost:3000" //use whatever your remote backend api base url is going to be.
+    }
+
+}
